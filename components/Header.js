@@ -1,9 +1,9 @@
 
 const items = [
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/UmutBayraktarYT' },
-    { icon: 'fab fa-twitch', link: 'https://twitch.com/umutyzx' },
+    { icon : 'fab fa-youtube' , link : 'https://youtube.com/UmutBayraktarYT' },
+    { simge : 'fab fa-twitch' , bağlantı : 'https://twitch.com/umutyzx' },
     { icon: 'fab fa-discord', link: 'https://discord.gg/FjwNdZZ22k' },
-    { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
+    { icon: 'fab fa-instagram', link: 'https://instagram.com/arddaege?igshid=YmMyMTA2M2Y=' },
     { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
     { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
   ]
