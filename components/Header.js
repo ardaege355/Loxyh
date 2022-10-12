@@ -12,7 +12,7 @@ const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://blog.umut.live' }
+    { icon: 'fal fa-rss', active: 'fa fa-rss', label: 'Blogs', href: 'https://reactsite.blogspot.com/2022/10/kendinize-ait-kisisel-websitesi.html?m=1' }
 ]
 
 import Link from 'next/link';
