@@ -1,6 +1,6 @@
 
 const items = [
-    { icon : 'fab fa-youtube' , link : 'https://youtube.com/UmutBayraktarYT' },
+    { icon : 'fab fa-youtube' , link : 'https://youtube.com/channel/UCxiZXbOTXVYJhKmWO2hBBog' },
     { simge : 'fab fa-twitch' , bağlantı : 'https://twitch.com/ardaege3555' },
     { icon: 'fab fa-discord', link: 'https://discord.gg/FjwNdZZ22k' },
     { icon: 'fab fa-instagram', link: 'https://instagram.com/arddaege?igshid=YmMyMTA2M2Y=' },
